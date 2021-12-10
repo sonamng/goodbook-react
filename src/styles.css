@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  text-align: center;
+  width: 10rem;
+  height: 3rem;
+  margin: auto;
+  color: black;
+  font-size: 1.2rem;
+  margin-left: 1.2rem;
+}
+h1 {
+  color: blue;
+  font-size: 3rem;
+}
+
+p {
+  color: white;
+  font-size: xx-large;
+}
+
+body {
+  background-color: crimson;
+}
